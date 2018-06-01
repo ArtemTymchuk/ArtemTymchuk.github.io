@@ -1621,18 +1621,6 @@ input::-webkit-input-placeholder {
         margin-left: 10px;
     }
 
-    .info-for-call {
-        flex-direction: column;
-    }
-
-    input[type=text] {
-        width: 90%;
-        margin-top: 10px;
-    }
-
-    input[type=text]:first-child {
-        margin-top: 0;
-    }
 }
 
 @media all and (max-width: 319px) {
