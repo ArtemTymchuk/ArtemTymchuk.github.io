@@ -1610,6 +1610,11 @@ input::-webkit-input-placeholder {
         margin-top: 0;
     }
 
+    input[type=submit] {
+        margin-left: 0;
+        transform: none;
+    }
+
 }
 
 @media all and (max-width: 350px) {
