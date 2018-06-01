@@ -1329,6 +1329,7 @@ input::-webkit-input-placeholder {
 
     .main-menu-dropDown-links:hover .main-menu-links {
         display: block;
+        cursor: pointer;
     }
 
     .main-menu {
