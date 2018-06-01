@@ -5,6 +5,10 @@ body, p, ul, li, h1, h2, h3, h4, h5, h6, a {
     text-decoration: none;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body {
     overflow-x: hidden;
     min-width: 320px;
@@ -1607,7 +1611,7 @@ input::-webkit-input-placeholder {
 }
 
 @media all and (max-width: 319px) {
-    body {
+    body, html {
         overflow-x: visible;
     }
 }
