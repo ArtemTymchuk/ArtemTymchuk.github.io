@@ -139,7 +139,6 @@ body {
 .main-menu-button-item:hover {
     background-color: white;
     color: #8d81ac;
-    cursor: pointer;
 }
 
 .header-info {
@@ -1285,7 +1284,6 @@ input::-webkit-input-placeholder {
         transform: none;
         position: static;
         width: auto;
-        cursor: pointer;
     }
 
     .main-menu-dropDown-links:before {
