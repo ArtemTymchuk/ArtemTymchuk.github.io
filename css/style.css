@@ -1604,8 +1604,21 @@ input::-webkit-input-placeholder {
         font-size: 18px;
     }
 
+    .app-capabilities-example-title {
+        margin-left: 10px;
+    }
+
+    .info-for-call {
+        flex-direction: column;
+    }
+
     input[type=text] {
-        width: 40%;
+        width: 90%;
+        margin-top: 10px;
+    }
+
+    input[type=text]:first-child {
+        margin-top: 0;
     }
 }
 
