@@ -134,13 +134,12 @@ body {
     font-weight: 700;
     line-height: 15px;
     width: 140px;
-    cursor: pointer;
-
 }
 
 .main-menu-button-item:hover {
     background-color: white;
     color: #8d81ac;
+    cursor: pointer;
 }
 
 .header-info {
