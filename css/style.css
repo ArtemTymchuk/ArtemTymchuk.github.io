@@ -1365,7 +1365,7 @@ input::-webkit-input-placeholder {
 
     .app-capabilities-example-title {
         text-align: center;
-        margin-left: 49px;
+   
     }
 
     .app-capabilities-example-window {
@@ -1622,9 +1622,7 @@ input::-webkit-input-placeholder {
         font-size: 18px;
     }
 
-    .app-capabilities-example-title {
-        margin-left: 10px;
-    }
+
 
 }
 
