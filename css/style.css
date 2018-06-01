@@ -1066,12 +1066,14 @@ input::-webkit-input-placeholder {
     }
 
     .app-capabilities-example-title {
+        display: flex;
+        justify-content: center;
         position: inherit;
         line-height: 1em;
         margin-left: 12px;
         margin-bottom: 60px;
         font-size: 42px;
-
+text-align: center;
     }
 
     .app-capabilities-example {
@@ -1363,10 +1365,6 @@ input::-webkit-input-placeholder {
         overflow: visible;
     }
 
-    .app-capabilities-example-title {
-        text-align: center;
-   
-    }
 
     .app-capabilities-example-window {
         width: auto;
